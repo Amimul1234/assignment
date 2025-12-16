@@ -56,4 +56,3 @@ echo "All done! Pods are running with new images"
 echo "=========================================="
 echo ""
 kubectl get pods
-
